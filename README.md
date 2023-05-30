@@ -1,41 +1,57 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Exercicios Greed - LeetCode
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 3<br>
+**Conteúdo da Disciplina**: Greed <br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 20/0028677  |  Vitor Manoel Aquino de Brito |
+
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Este repositório contém a resolução de 3 exercicios relacionados a Algoritmos Ambiciosos, contemplando os algoritmos de Interval scheduling, o algoritmo de Interval Partitioning (com fila de prioridade) e scheduling to minimize lateness adaptado. Os Exercicios realizados foram retirados do [LeetCode](https://leetcode.com/)
+
+## [Link da Apresentação]()
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+### Exercicio 1 - Minimum Cost of Buying Candies With Discount
+
+Link: [Non-Overlapping](https://leetcode.com/problems/non-overlapping-intervals/description/)
+Dificuldade: Fácil
+
+![](./img/buyingCandies.png)
+
+### Exercício 2 - Non-Overlapping
+
+Link: [Non-Overlapping](https://leetcode.com/problems/non-overlapping-intervals/description/)
+Dificuldade: Médio
+
+![](./img/nonOverlapping.png)
+
+### Exercicio 3 - Divide Intervals Into Minimum Number of Groups
+
+Link: [Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/)
+Dificuldade: Médio
+
+![](./img/DivideIntervals.png)
+
+### Exercício 4 - Course Schedule III
+
+Link: [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/)
+Dificuldade: Difícil
+
+![](./img/courseSchedule.png)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: JavaScript<br>
+
+Caso queira testar localmente é necessário ter o nodeJS instalado
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Para verificar o funcionamento basta abrir o link do exercicio e copiar o código referente a questão, e logo após realizar o envio (caso esteja o console.log no final, basta trocá-lo pelo return seguido da variável). Caso queira verificar localmente, é necessário executar o programa, e para isto basta utilizar o comando:
+
+`node NomeDoArquivo.js`.
+
