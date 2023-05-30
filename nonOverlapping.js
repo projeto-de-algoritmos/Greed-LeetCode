@@ -3,9 +3,10 @@
  * @return {number}
  */
 var eraseOverlapIntervals = function(intervals) {
-    intervals.sort((a,b) => a[0] - b[0])
+    intervals.sort((a,b) => a[1] - b[1])
 
     let overlap = 0, listIndex = 0
+
     for(let i = 1; i < intervals.length; i++) {
 
         //verifica se há overlap entre os horários 
