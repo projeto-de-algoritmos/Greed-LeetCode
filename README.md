@@ -12,7 +12,7 @@
 ## Sobre 
 Este repositório contém a resolução de 4 exercicios relacionados a Algoritmos Ambiciosos, contemplando os algoritmos de Interval scheduling, o algoritmo de Interval Partitioning (com fila de prioridade) e scheduling to minimize lateness adaptado. Os Exercicios realizados foram retirados do [LeetCode](https://leetcode.com/)
 
-## [Link da Apresentação]()
+## [Link da Apresentação](https://www.youtube.com/watch?v=KO3q6SBY5FE)
 
 ## Screenshots
 
